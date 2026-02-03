@@ -41,8 +41,6 @@
 
 ---
 
-## 📊 BRIEFING COMPLETO / DETALHADO
-
 ## 1️⃣ Estratégia
 
 1. **Principais objetivos do site**  
