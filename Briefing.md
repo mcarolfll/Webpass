@@ -13,7 +13,7 @@
 - Usuários  
 
 **Objetivo do website**
-- Cadastrar livros de forma organizada e visual, permitindo que empresas, escolas ou usuários se orientem sobre os livros que já possuem ou já leram
+- Cadastrar livros de forma organizada e visual, permitindo que escolas ou usuários se orientem sobre os livros que já possuem ou já leram
 
 **Imagem a ser transmitida**
 - Rápido  
@@ -81,11 +81,15 @@
 - Necessidade de tempo e atenção no preenchimento correto dos dados  
 
 **Mensagem principal**
-- Sistema de biblioteca digital para cadastrar, organizar e consultar livros, facilitando o controle do acervo e o registro de leituras  
+- Sistema de biblioteca digital para cadastrar, organizar e consultar livros, facilitando o controle e o registro de leituras  
 
 **Dados coletados**
 - E-mail  
-- Senha  
+- Senha
+- Nome do Livros
+- Autores/categorias/gêneros 
+- Data
+- Número do Livro
 *Objetivo:* organizar e proteger as informações cadastradas  
 
 ---
@@ -103,7 +107,7 @@
 
 **O que o site oferece**
 - Cadastro geral de livros  
-- Visualização do acervo  
+- Visualização dos livros 
 - Planilha geral dos livros cadastrados  
 
 **Ação esperada do visitante**
@@ -123,22 +127,20 @@
 ## Conteúdo
 
 **Atualizações**
-- As informações serão atualizadas sempre que houver novos livros cadastrados, editados ou removidos  
-- As mudanças refletem diretamente nas listagens e relatórios do sistema  
+- As informações serão atualizadas sempre que houver novos livros cadastrados  
 
 **Quem se beneficia**
 - Bibliotecários, escolas e usuários, com informações sempre organizadas e atualizadas  
 
 **Funcionalidades necessárias**
 - Cadastro de livros  
-- Edição e exclusão de livros  
-- Organização visual do acervo  
+- Organização visual 
 - Consulta e pesquisa  
 - Geração e download de relatórios  
 - Interface simples e intuitiva  
 
 **Aceite do site**
-- O site será considerado pronto quando o cadastro estiver funcionando corretamente e os livros puderem ser visualizados sem erros  
+- Quando o cadastro estiver funcionando corretamente e os livros puderem ser visualizados sem erros  
 
 ---
 
@@ -152,7 +154,8 @@
 
 **Cores e padrões**
 - Logotipo definido  
-- Cores neutras: azul, branco, preto, cinza e bege  
+- Cores neutras
+- Azul, branco, preto, cinza e bege  
 
 **Padrões de design**
 - Segue um grupo de sites com padrão visual semelhante  
