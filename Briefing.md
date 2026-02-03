@@ -1,128 +1,178 @@
-# Sistema de RH – Website  
-**Projeto:** Sistema de cadastro e gestão de candidatos e empresas  
-**Responsável:** maria Carolina
+# Website – Sistema de Biblioteca
+**Projeto:** Sistema de cadastro e organização de livros  
+**Responsável:** Maria Carolina  
 **Data estimada de entrega:** 10/02/2026  
 
 ---
 
-## 📌 BRIEFING PRELIMINAR
+## Briefing preliminar
 
-### Público-alvo
-- Empresas que desejam contratar serviços  
-- Setor de RH  
-- Empresas terceirizadas  
+**Público-alvo**
+- Bibliotecários  
+- Escolas  
+- Usuários  
 
-### Objetivo do Website
-- Facilitar o cadastro e a organização de informações para contratantes (RH)
+**Objetivo do website**
+- Cadastrar livros de forma organizada e visual, permitindo que empresas, escolas ou usuários se orientem sobre os livros que já possuem ou já leram
 
-### Imagem a ser transmitida
+**Imagem a ser transmitida**
 - Rápido  
 - Simples  
-- Flexível para o dia a dia  
+- Organização  
 
-### Conteúdo dinâmico
-- Cadastro e gerenciamento de informações de:
-  - Candidatos
-  - Empresas
+**Conteúdo dinâmico**
+- Cadastro e gerenciamento de:
+  - Livros  
+  - Autores, categorias e gêneros  
+  - Usuários ou escolas  
+  - Relatórios dos livros cadastrados  
 
-### Concorrentes
-**Vantagens**
+**Concorrentes**
+
+*Vantagens*
 - Prático e simples  
-- Ameniza o trabalho cansativo do RH  
+- Facilita o controle e a visualização dos livros  
 
-**Desvantagens**
+*Desvantagens*
 - Necessidade de preenchimento manual das informações  
+- Outros sites com mais informações iniciais  
 
-### Referências
-- Website desenvolvido em sala de aula, com foco em facilitar o dia a dia do contratante
+**Referências**
+- Catálogos virtuais de livros  
+- Necessidade de leitores por um local onde seja possível guardar e organizar os livros já lidos  
 
-### Observações
-- Caso seja necessário adicionar novas informações, o desenvolvedor deverá ser informado para garantir que o sistema seja funcional e ideal para a empresa de RH
-
----
-
-## 1️⃣ Estratégia
-
-1. **Principais objetivos do site**  
-   - Dar suporte às empresas que contratam (RH)
-
-2. **Tipo de site**  
-   - Coletor de informações  
-   - Armazena dados para consulta futura
-
-3. **Mensagens principais**
-   - Credibilidade  
-   - Segurança no armazenamento de informações importantes
-
-4. **Plano de promoção**
-   - Agilizar os processos de RH
-
-5. **Prazo estimado**
-   - 10/02/2026
+**Observações**
+- Caso seja necessário adicionar novas informações, o desenvolvedor deverá ser informado para garantir que o sistema seja funcional e adequado
 
 ---
 
-## 2️⃣ Informações Gerais sobre o Website
+## Estratégia
 
-6. **Personalidade do negócio**
-   - Confiável e moderno  
-   - Lida com dados sensíveis e agiliza processos
+**Objetivo principal**
+- Ajudar na organização de informações de livros
 
-7. **Pontos fortes e fracos**
+**Tipo de site**
+- Coletor de informações  
+- Armazena dados de livros para consulta futura  
 
-   **Fortes**
-   - Agilidade  
-   - Praticidade  
-   - Centralização das informações
+**Mensagens principais**
+- Organização  
+- Facilidade de uso  
 
-   **Fracos**
-   - Necessidade de tempo e atenção no preenchimento correto dos dados
+**Plano de promoção**
+- Facilitar a organização de bibliotecas e o controle dos livros lidos e cadastrados  
 
-8. **Mensagem principal do negócio**
-   - Sistema de RH para cadastrar candidatos e empresas, agilizando a busca e organização de informações
-
-9. **Dados coletados dos visitantes**
-   - E-mail  
-   - Senha  
-   **Objetivo:** organizar e proteger as informações cadastradas
+**Prazo**
+- 10/02/2026  
 
 ---
 
-## 3️⃣ Público-alvo
+## Informações gerais
 
-10. **Público-alvo principal**
-    - Setor de RH
+**Personalidade do negócio**
+- Confiável e moderno  
 
-    **Secundário e terciário**
-    - Empresas terceirizadas que desejam organizar seus dados
+**Pontos fortes**
+- Agilidade  
+- Praticidade  
+- Centralização das informações  
 
-11. **O que o site oferece**
-    - Cadastro de candidatos  
-    - Cadastro de empresas  
-    - Planilha geral de interessados por vaga
+**Pontos fracos**
+- Necessidade de tempo e atenção no preenchimento correto dos dados  
 
-12. **Ação esperada do visitante**
-    - Cadastrar informações importantes fornecidas pelos candidatos
+**Mensagem principal**
+- Sistema de biblioteca digital para cadastrar, organizar e consultar livros, facilitando o controle do acervo e o registro de leituras  
 
-13. **Conhecimento técnico dos usuários**
-    - Conhecimento básico em informática e internet
-
-14. **Capacidade técnica de acesso**
-    - Conexão básica de internet  
-    - Compatível com todos os navegadores
+**Dados coletados**
+- E-mail  
+- Senha  
+*Objetivo:* organizar e proteger as informações cadastradas  
 
 ---
-CONTEÚDO 
-15) Que informação do site mudará(atualização)? Com que frequência e com que abrangência? As atualizações serão acontecidas sempre que houver novos candidatos
-16) Quem se beneficia com as atualizações? a empresa que procuram agilizade no processo
-17) Qual são as funcionalidades que precisam existir?
-18) Qual é o "aceite" do site (o que precisa existir para "aceitar" que ele está pronto)?
-APARENCIA (DESIGN) 
-19) Tem em mente alguma aparência para o web site? algo moderno, visualmente que não canse a vista, com icones 
-20) Existem padrões existentes, como logotipos e cores, que devem estar presentes?
-21) O site parte de um site maior ou grupo de sites com padrões de design que precisam ser correspondidos? 
-22) Quais são alguns outros sites da web que você gosta? O que você gosta a respeito deles? Se possível, envie links de referencia. 
-OUTROS 
-23) Quem será o responsável pelo contato com para eventuais esclarecimentos sobre o projeto e envio de materiais? 
-24) No Briefing Preliminar, foram apontados como concorrentes [colocar nome dos  concorrentes informados no 1ro briefing]. O que é mais preocupante em relação a eles? Teria alguma informações mais detalhadas a respeito? 
-25) O que não pode haver no web site, em função dos concorrentes? 
+
+## Público-alvo detalhado
+
+**Principal**
+- Bibliotecários  
+
+**Secundário**
+- Escolas  
+
+**Terciário**
+- Usuários  
+
+**O que o site oferece**
+- Cadastro geral de livros  
+- Visualização do acervo  
+- Planilha geral dos livros cadastrados  
+
+**Ação esperada do visitante**
+- Cadastrar e organizar livros  
+- Consultar informações  
+- Registrar livros já lidos  
+
+**Conhecimento técnico**
+- Conhecimento básico em informática e internet  
+
+**Capacidade de acesso**
+- Conexão básica de internet  
+- Compatível com todos os navegadores  
+
+---
+
+## Conteúdo
+
+**Atualizações**
+- As informações serão atualizadas sempre que houver novos livros cadastrados, editados ou removidos  
+- As mudanças refletem diretamente nas listagens e relatórios do sistema  
+
+**Quem se beneficia**
+- Bibliotecários, escolas e usuários, com informações sempre organizadas e atualizadas  
+
+**Funcionalidades necessárias**
+- Cadastro de livros  
+- Edição e exclusão de livros  
+- Organização visual do acervo  
+- Consulta e pesquisa  
+- Geração e download de relatórios  
+- Interface simples e intuitiva  
+
+**Aceite do site**
+- O site será considerado pronto quando o cadastro estiver funcionando corretamente e os livros puderem ser visualizados sem erros  
+
+---
+
+## Aparência
+
+**Estilo visual**
+- Moderno  
+- Visual limpo  
+- Uso de ícones e cards  
+- Não cansar a vista  
+
+**Cores e padrões**
+- Logotipo definido  
+- Cores neutras: azul, branco, preto, cinza e bege  
+
+**Padrões de design**
+- Segue um grupo de sites com padrão visual semelhante  
+
+**Referências visuais**
+- Ainda não definidas  
+
+---
+
+## Outros
+
+**Responsável pelo contato**
+- Maria Carolina  
+
+**Concorrência**
+- Outros sites com mais informações iniciais  
+- Principal preocupação: pagar caro por algo simples  
+
+**O que não pode haver no site**
+- Rankings como “Top 3 livros mais utilizados”  
+- Gráficos de empréstimos por mês  
+- Avaliações gerais dos livros  
+- Comparação de idiomas mais ou menos usados  
