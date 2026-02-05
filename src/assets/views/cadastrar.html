@@ -7,25 +7,16 @@
     <title>Cadastrar Livros</title>
 </head>
 <body>
-  <form class="form">
-    <p class="form-title">Cadastrar Livro</p>
+  <form class="Cads">
+    <p class="title">Cadastrar Livro</p>
 
-    <div class="input-container">
-        <input type="text" id="lv" placeholder="Nome do Livro">
-        <span></span>
-    </div>
+        <div class="input">
+            <input type="text" name="nomeLivro" placeholder="Nome do Livro" required>
+            <input type="text" name="autor" placeholder="Nome do Autor" required>
+            <input type="text" name="miniResumo" placeholder="Mini Resumo" required>
+        </div>
 
-    <div class="input-container">
-        <input type="text" id="at" placeholder="Nome do Autor">
-        <span></span>
-    </div>
-
-    <div class="input-container">
-        <input type="text" id="rs" placeholder="Mini Resumo">
-        <span></span>
-    </div>
-
-    <div class="input-container">
+        
         <select id="categoria">
             <option value="">Selecione a Categoria</option>
             <option value="Romance">Romance</option>
@@ -54,9 +45,7 @@
         </select>
     </div>
 
-    <button type="button" class="submit" onclick="Cadastrar()">
-        Cadastrar Livro
-    </button>
+    <button type="button" class="botao">Cadastrar Livro</button>
 </form>
 
 
