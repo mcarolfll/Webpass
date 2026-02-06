@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,13 +7,16 @@
     <title>Cadastrar Livros</title>
 </head>
 <body>
+
+<a href="inicio.html" class="Voltar"> < Voltar </a>
+
   <form class="Cads">
     <p class="title">Cadastrar Livro</p>
 
         <div class="input">
-            <input type="text" name="nomeLivro" placeholder="Nome do Livro" required>
-            <input type="text" name="autor" placeholder="Nome do Autor" required>
-            <input type="text" name="miniResumo" placeholder="Mini Resumo" required>
+            <input type="text" id="nomeLivro" placeholder="Nome do Livro" required>
+            <input type="text" id="autor" placeholder="Nome do Autor" required>
+            <input type="text" id="miniResumo" placeholder="Mini Resumo" required>
         </div>
 
         
@@ -45,9 +48,11 @@
         </select>
     </div>
 
-    <button type="button" class="botao">Cadastrar Livro</button>
-</form>
+<button type="button" class="botao" onclick="Cadastrar()">Cadastrar Livro</button>
+    
 
+</form>
+<script src="../js/app.js"></script>
 
 </body>
 </html>

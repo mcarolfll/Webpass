@@ -27,6 +27,7 @@ justify-content: space-between;
 align-items: center;
 }
 
+
 h3 {
 margin: 0;
 font-size: 1.8rem;
@@ -50,6 +51,7 @@ font-size: 0.95rem;
 font-weight: 600;
 
 }
+
 
 .categoria {
 font-size: 1.5rem;
@@ -76,21 +78,21 @@ height: 200px;
 
 
 .img {
-    width: 130px; 
-    flex-shrink: 0;
-    overflow: hidden;
+width: 130px; 
+flex-shrink: 0;
+overflow: hidden;
 }
 
 .img img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
+width: 100%;
+height: 100%;
+object-fit: cover;
+object-position: center;
 }
 
 
 .card-dentro {
-    padding: 15px;
+padding: 15px;
 
 }
 
