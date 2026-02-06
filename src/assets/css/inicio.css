@@ -1,0 +1,107 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #f4f6f8;
+color: #333;
+padding-top: 100px; 
+}
+
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+.topo {
+background:  #667eea;
+padding: 15px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+}
+
+
+.header-content {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+h3 {
+margin: 0;
+font-size: 1.8rem;
+color: #ffffff;
+    
+}
+
+h5 {
+margin: 5px;
+font-size: 0.9rem;
+color: #e0e7ff;
+}
+
+.botaocadas {
+background-color: #ffffff;
+color: #764ba2;
+border: none;
+padding: 10px;
+border-radius: 25px;
+font-size: 0.95rem;
+font-weight: 600;
+
+}
+
+.categoria {
+font-size: 1.5rem;
+color: #2d3748;
+margin-bottom: 20px;
+padding-left: 15px;
+}
+
+.cardstodo {
+display: grid;
+gap: 25px;
+width: 50%;         
+margin: 0 auto; 
+}
+
+
+.cardind {
+background-color: #fff;
+border-radius: 12px; 
+display: flex;
+flex-direction: row;
+height: 200px; 
+}
+
+
+
+
+.img {
+width: 130px; 
+flex-shrink: 0;
+overflow: hidden;
+}
+
+.img img {
+width: 100%;
+height: 100%;
+object-fit: cover;
+object-position: center;
+}
+
+
+.card-dentro {
+padding: 15px;
+
+}
+
+.titulolivro {
+font-size: 1.1rem;
+margin: 0 0 8px;
+color: #1a202c;
+font-weight: 600;
+line-height: 1.3;
+}
+
+
