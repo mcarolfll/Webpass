@@ -20,7 +20,9 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 display: flex;
 flex-direction: column;
 align-items: center;
+margin-top: 150px;
 }
+
 
 .title {
 font-size: 1.25rem;
