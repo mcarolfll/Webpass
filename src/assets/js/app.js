@@ -1,11 +1,16 @@
 function Entrar() {
+   
     const email = document.querySelector('#email').value;
     const senha = document.querySelector('#senha').value;
+    const tipo = document.querySelector('select').value;
 
-    if (email !== "" && senha !== "") {
-       window.location.href = "inicio.html";
+   
+    if (email !== "" && senha !== "" && tipo !== "") {
+        
+        window.location.href = "inicio.html";
     } else {
-        alert("entre com email e senha válidos");
+       
+        alert("Por favor, preencha todos os campos e selecione o tipo de usuário.");
     }
 }
 

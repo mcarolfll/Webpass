@@ -9,26 +9,29 @@
 <body>
     
   <form class="Cads">
-  
-        <p class="title">Cadastre-se para poder acessar o sistema</p>
+    <p class="title">Cadastre-se para poder acessar o sistema</p>
 
-        <label for="tipoUsuario">Escolha seu tipo de usuário:</label>
-        <select>
-            <option value="">Selecione...</option>
-            <option value="Escola">Escola</option>
-            <option value="Bibliotecarios">Bibliotecários</option>
-            <option value="Leitores">Leitores</option>
-        </select>
+    <label for="tipoUsuario">Escolha seu tipo de usuário:</label>
+    <select id="tipoUsuario" required>
+        <option value="">Selecione...</option>
+        <option value="Escola">Escola</option>
+        <option value="Bibliotecarios">Bibliotecários</option>
+        <option value="Leitores">Leitores</option>
+    </select>
 
-        <div class="input">
-            <input type="email" name="email" placeholder="Email" required>
-            <input type="password" name="senha" placeholder="Senha" required>
-        </div>
+    <div class="input">
+        <input type="email" id="email"  placeholder="Email" required>
+        <input type="password" id="senha"  placeholder="Senha" required>
+    </div>
 
-       <button type="button" class="botao" onclick="window.location.href='inicio.html'">Entrar</button>
+    <button type="button" class="botao" onclick="Entrar()" >Entrar</button>
+
+</form>
 
 
-    </form>
+<script src="../js/app.js"></script>
 
 </body>
+
+
 </html>
